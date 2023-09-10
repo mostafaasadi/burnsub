@@ -5,6 +5,8 @@
 
 BurnSub is a simple desktop application built with PyQt5 that allows you to easily combine video files with subtitle files (SRT format) to create a new video with embedded subtitles. This can be useful when you have a video and a corresponding subtitle file and want to create a single video file with subtitles.
 
+![screen](https://github.com/mostafaasadi/burnsub/assets/12208050/f46c7f32-00b3-4126-9eef-90bdbecfb740)
+
 ## Features
 
 - Select a video file (MP4, AVI, MKV, etc.).
